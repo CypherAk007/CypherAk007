@@ -1,4 +1,4 @@
-[![MasterHead](https://git.io/typing-svg)](https://cypherak007.github.io/Portfolio.github.io/)
+[![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ)](https://cypherak007.github.io/Portfolio.github.io/)
 <h1 align="center">Yo! 👋, I'm Abhishek AkA CypherAk007</h1>
 <h3 align="center">A passionate Application Developer & Machine Learning Enthusiast from India</h3>
 
