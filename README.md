@@ -1,18 +1,18 @@
 [![MasterHead](https://raw.githubusercontent.com/majdimokhtar/github-images/main/rightimagemajdigithub.gif?token=GHSAT0AAAAAABUZ7SAQ6CWAJ3EWM7P3WSBUY3GNLNQ)](https://cypherak007.github.io/Portfolio.github.io/)
 <h1 align="center">Yo! 👋, I'm Abhishek AkA CypherAk007</h1>
-<h3 align="center">A passionate Application Developer & Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cypherak007&label=Profile%20views&color=0e75b6&style=flat" alt="cypherak007" /> </p>
 
-- 🔭 I’m currently working on [Competitive Programming](https://github.com/CypherAk007/CP-DSA.git)
+- 🔭 I’m currently working on [Problem Solving](https://github.com/CypherAk007/CP-DSA.git)
 
-- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://cypherak007.github.io/Portfolio.github.io/](https://cypherak007.github.io/Portfolio.github.io/)
 
-- 💬 Ask me about **Android, MERN, AWS Cloud, ML&DL**
+- 💬 Ask me about **Android, MERN, Django, AWS Cloud, ML&DL**
 
 - 📫 How to reach me **ktmabhi007@gmail.com**
 
