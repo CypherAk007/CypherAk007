@@ -32,5 +32,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypherak007&show_icons=true&locale=en&layout=compact" alt="cypherak007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypherak007&show_icons=true&locale=en" alt="cypherak007" /></p>
-
-![CypherAk007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CypherAk007&theme=vue-dark&hide_border=true)
