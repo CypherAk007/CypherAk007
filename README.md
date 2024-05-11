@@ -2,7 +2,7 @@
 <h1 align="center">Yo! 👋, I'm Abhishek AkA CypherAk007</h1>
 <h3 align="center">A passionate Full Stack Developer & Machine Learning Enthusiast from India</h3>
 
-![CypherAk007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAk007&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![CypherAk007's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CypherAk007&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)__
 
 ![CypherAk007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CypherAk007&theme=vue-dark&hide_border=true)
 
