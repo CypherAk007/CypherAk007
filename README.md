@@ -50,7 +50,7 @@
 
 <!-- <a href="https://linkedin.com/in/abhishek krishna tm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek krishna tm" height="30" width="40" /></a> -->
 <a href="https://www.youtube.com/c/house of cyphers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="house of cyphers" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/cypherak007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cypherak007" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/cypherak007](https://leetcode.com/u/abhishek-krishna-tm/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="cypherak007" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ktmabhi007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ktmabhi007" height="30" width="40" /></a>
 </p>
 
